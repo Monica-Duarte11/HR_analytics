@@ -15,7 +15,7 @@ Therefore, in order to be able to interpret the data correctly, several dashboar
 
 # Organization
 
-1. Employee management dashboard 📊\
+### 1. Employee management dashboard 📊
 
 The first screen consists of a set of 6 visualizations that summarize the overall picture of the company, and how the distribution of employees is in relation to each of the department's objectives.
 
@@ -23,7 +23,7 @@ The first row contains the information related to the objectives: \
 Leveling, number of promotions, number of attrition, and gender equity in leadership levels. \
 And in the second row are the graphs showing the overall status of the company in terms of employees by department, education field by job level, and salary by role.
 
-2. Performance satisfaction 😀\
+### 2. Performance satisfaction 😀
 
 In order to visualize the performance of the department, a dashboard was included just to visualize the results of the satisfaction surveys of all employees. 
 
@@ -31,7 +31,7 @@ These results include job satisfaction, work environment, and relationship, as w
 
 All results are displayed divided by gender and can be filtered by department, the field of study, and whether employees work overtime. 
 
-3. Salary analysis 💶 \
+### 3. Salary analysis 💶 
 
 To finish including the financial part, fundamental in any human resources department, a table was made to analyze only graphs related to salary. 
 
